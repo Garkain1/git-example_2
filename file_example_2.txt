@@ -1,1 +1,4 @@
+Merge resolved
 Text -1
+Some text for merge conflict from brach2
+Merge resolved
